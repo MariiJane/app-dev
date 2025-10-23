@@ -1,6 +1,1 @@
-# My Favorite Series
-| Title | Description |
-| ----------- | ----------- |
-| **The Paradise of Thorns** | An unmarried gay couple starts a durian farm together. When one of them dies, the surviving partner fights to regain their shared property, which is seized by his family |
-| **Mr.Sunshine** | Mr. Sunshine centers on a young boy born into a house servant's family who travels to the United States during the 1871 Shinmiyangyo (U.S. expedition to Korea). He returns to his homeland later as a U.S. marine officer. He meets and falls in love with an aristocrat’s daughter. At the same time, he discovers a plot by foreign forces to colonize Korea.  |
-| **The Untamed** | Wei Wuxian, a loathed cultivator of "dark and demonic arts", is resurrected sixteen years after his tragic death. His return to the world brings him to reunite with the people in his first life, including his soulmate, the honoured Lan Wangji. Wei Wuxian begins to remember his time before his demise, from his beginning as a young cultivator using traditional tools like the sword and musical instruments, to his very personal methods of using resentful energy of departed beings, with the help of innovative tools of his own creation.|
+
